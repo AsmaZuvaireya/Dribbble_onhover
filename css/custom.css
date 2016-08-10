@@ -1,0 +1,111 @@
+body {
+    background-color: #444;
+}
+
+.row {
+    background-color: #e6e6e6;
+}
+
+.img__size {
+    width: 115px;
+    height: 87px;
+    margin: 10px;
+}
+
+li {
+    display: inline;
+    padding: 0px 7px;
+}
+
+ul {
+    border-bottom: 1px solid grey;
+    padding: 7px;
+}
+
+.color {
+    width: 10px;
+    height: 10px;
+    border-radius: 4px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.color_palette1 {
+    background-color: cyan;
+    color: cyan;
+}
+
+.color_palette2 {
+    background-color: blue;
+    color: blue;
+}
+
+.color_palette3 {
+    background-color: gray;
+    color: gray;
+}
+
+.row {
+    margin:100px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.foot a {
+    padding: 13px;
+}
+
+.screenshot {
+    margin: 20px;
+}
+
+.para {
+    margin: 5px 20px;
+    width: 400px;
+}
+
+.internet_img {
+    border-radius: 50px;
+}
+
+.studio_img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    position: relative;
+    top: 28px;
+    right: 23px;
+}
+
+.comments {
+    position: relative;
+    bottom: 47px;
+    left: 90px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.views {
+    float: right;
+}
+
+.img {
+    padding: 0px 5px;
+    float: left;
+}
+
+.heading {
+    position: absolute;
+    top: 95px;
+    left: 312px;
+}
+
+.comment_img {
+    width: 57px;
+}
